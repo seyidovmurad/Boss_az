@@ -1,0 +1,82 @@
+[
+  {
+    "Cvs": {
+      "Experience": 4,
+      "Profession": "Backend Developer",
+      "School": "Pinewood Technical",
+      "Skill": [
+        "C++",
+        "SQL",
+        "JAVA",
+        "CSS"
+      ],
+      "Language": [
+        "English",
+        "Azerbaijan"
+      ]
+    },
+    "ID": 0,
+    "Age": 39,
+    "Name": "Jessie",
+    "Surname": "Wesley",
+    "Mail": "omari1983@yahoo.com",
+    "Phone": "949-306-5502",
+    "Username": "jess",
+    "Password": "jess1983",
+    "Notification": [
+      "Omni Realty hired you for \"Help me improving my platform performence\""
+    ]
+  },
+  {
+    "Cvs": {
+      "Experience": 1,
+      "Profession": "Copy Writer",
+      "School": "Eastwood Grammar",
+      "Skill": [
+        "Microsoft Office",
+        "Other"
+      ],
+      "Language": [
+        "English",
+        "Turkish",
+        "Azerbaijan",
+        "Other"
+      ]
+    },
+    "ID": 1,
+    "Age": 30,
+    "Name": "William",
+    "Surname": "Witt",
+    "Mail": "javonte2016@yahoo.com",
+    "Phone": "904-742-6091",
+    "Username": "will",
+    "Password": "will6092",
+    "Notification": []
+  },
+  {
+    "Cvs": {
+      "Experience": 13,
+      "Profession": "Cyber security",
+      "School": "Storm Coast Technical",
+      "Skill": [
+        "PHP",
+        "Pyton",
+        "Other"
+      ],
+      "Language": [
+        "Azerbaijan",
+        "English",
+        "Russian"
+      ]
+    },
+    "ID": 2,
+    "Age": 43,
+    "Name": "Ana",
+    "Surname": "Baldwin",
+    "Mail": "alek_herzo1@hotmail.com",
+    "Phone": "816-203-1941",
+    "Username": "anabald",
+    "Password": "12345678",
+    "Notification": []
+  }
+]

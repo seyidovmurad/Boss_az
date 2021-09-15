@@ -1,0 +1,34 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E3FCE3E4-1053-4D84-8C71-83F8B3BD53BA}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BOSSAZ/Functions/MainMethods.cs" Line="179" Column="1" />
+      <File FileName="BOSSAZ/Functions/SelectingMenu.cs" />
+      <File FileName="BOSSAZ/Program.cs" />
+      <File FileName="BOSSAZ/People/People Items/CV.cs" />
+      <File FileName="BOSSAZ/People/People Items/Vacancy.cs" Line="47" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BOSSAZ" expanded="True">
+            <Node name="BOSSAZ" expanded="True">
+              <Node name="Functions" expanded="True" />
+              <Node name="People" expanded="True">
+                <Node name="People Items" expanded="True">
+                  <Node name="Vacancy.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BOSSAZ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
